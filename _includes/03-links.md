@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+[text](https://github.com/leanmolinari)
+[text](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
